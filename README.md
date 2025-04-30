@@ -1,9 +1,11 @@
-# Ex.5 Design and development of a warehouse management application using Salesforce.com
+# Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
 
-####  NAME:SELVA JOBIN S
-####  REG NO:212223220102
 ## AIM:
 To create a warehouse application in salesforce.com
+### Name:Selva Jobin S
+
+### Reg No:212223220102
+
 
 ## Procedure
 
@@ -74,4 +76,4 @@ Note: Before inserting an image for the logo you need to use the following proce
 
 ## RESULT:
 
-Thus, creating a Warehouse Application in SalesForce.com is successfully created.
+Thus, creating a Warehouse Application in SalesForce.com is successfully created
